@@ -10,7 +10,7 @@ Heyy Coders!!! My name is Shashwat Sharma and in this repository we will learn h
 - The dependencies used in this project will be listed after the project runs fine.
 - Comments will be provided so that anyone who is new to spring-boot can easily be familiar with it.
 
-##Spring initializer
+## Spring initializer
 
 - The link to start Spring-Boot use this link :- https://start.spring.io/
 - It is Maven Project, Packaging is JAR and java version is 11
