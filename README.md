@@ -36,4 +36,9 @@ Heyy Coders!!! My name is Shashwat Sharma and in this repository we will learn h
 - now click choose connection method
 - click connect your application
 ![](pics/img6.png)
-- copy the code 
+- copy the link from the clipboard
+
+## Code
+- I created the project name as customer data
+- Just have a look at the project directory
+
