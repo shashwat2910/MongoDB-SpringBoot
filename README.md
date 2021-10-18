@@ -21,3 +21,17 @@ Heyy Coders!!! My name is Shashwat Sharma and in this repository we will learn h
 ## Cloud MongoDB Atlas
 
 - Go on https://www.mongodb.com/cloud ; Sign Up or Login if you have 
+![](pics/img1.png)
+- Click on new project
+- Follow the steps
+- Clusters usually take 2-5 mins to get build
+- Something will show up
+![](pics/img2.png) 
+- Click on Build a Database
+- You will see a dashboard like this
+![](pics/img3.png)
+- If you see this click on Browse Collections
+- Click add my own data
+![](pics/img4.png)
+- Name the database and collection name according to your choice
+- 
