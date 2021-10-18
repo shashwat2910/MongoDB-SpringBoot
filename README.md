@@ -41,4 +41,10 @@ Heyy Coders!!! My name is Shashwat Sharma and in this repository we will learn h
 ## Code
 - I created the project name as customer data
 - Just have a look at the project directory
+![](pics/img7.png)
+- The file with yellow dash is your model. It contains the fields you want.
+- The file with orange dash is your modelRepository. It use to extend mongo repository. *This is an Interface file *
+- The file with green dash is your main File.
+- The file with white tick is use for server port and the link you got while connecting will be used here.
 
+If you have any doubts please feel to message me on LinkedIn : https://www.linkedin.com/in/shashwat-sharma-79221218a/
