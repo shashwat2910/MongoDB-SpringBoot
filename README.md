@@ -2,13 +2,7 @@
 
 Heyy Coders!!! My name is Shashwat Sharma and in this repository we will learn how to connect your data base which is in MongoDB Atlas to Spring-boot which is a framework in JAVA.
 
-
-# Customer-Data-API
-
-- This is a practice of making API of Customer Data made in Spring Boot which is the framework of JAVA. 
-- The data has been stored in the MongoDB Cloud Atlas.
-- The dependencies used in this project will be listed after the project runs fine.
-- Comments will be provided so that anyone who is new to spring-boot can easily be familiar with it.
+## Follow these Steps
 
 ## Spring initializer
 
@@ -34,4 +28,12 @@ Heyy Coders!!! My name is Shashwat Sharma and in this repository we will learn h
 - Click add my own data
 ![](pics/img4.png)
 - Name the database and collection name according to your choice
-- 
+- You will see dashboard again
+- Click on Connect
+![](pics/img5.png)
+- For add a connection ip address click on allow access from anywhere
+- create a database user and *remeber the username and password will be needed afterwards*
+- now click choose connection method
+- click connect your application
+![](pics/img6.png)
+- copy the code 
