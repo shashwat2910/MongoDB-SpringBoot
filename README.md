@@ -49,4 +49,4 @@ Heyy Coders!!! My name is Shashwat Sharma and in this repository we will learn h
 - The file with green dash is your main File.
 - The file with white tick is use for server port and the link you got while connecting will be used here.
 
-If you have any doubts please feel to message me on LinkedIn : https://www.linkedin.com/in/shashwat-sharma-79221218a/
+If you have any doubts please feel free to message me on LinkedIn : https://www.linkedin.com/in/shashwat-sharma-79221218a/
